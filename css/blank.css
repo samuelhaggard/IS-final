@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(240, 220, 194);
+}
+
+.common{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.projects{
+    font-style: italic;
+}
+
+.header{
+    text-decoration: underline;
+}
+
+.number{
+    font-weight: bold;
+    
+}
+
+.border{
+    border-style:outset;
+    background-color: rgba(128, 128, 128, 0.251);
+}
+.resume{
+    font-size: 25px;
+    
+}
+
+img{
+border-style: outset;
+
+}
+
+ul{
+    color: rgb(46, 45, 45);
+    list-style-type: upper-roman;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
